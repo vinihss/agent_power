@@ -16,7 +16,7 @@ description: "Create a new Node.js CLI tool with Commander framework, subcommand
 Rode na pasta onde o projeto deve ser criado:
 
 ```bash
-bash .opencode/skills/nodejs/cli/scripts/gerar_cli.go minha_ferramenta
+bash .opencode/skills/nodejs/cli/scripts/gerar_cli.sh minha_ferramenta
 ```
 
 O nome deve ser um diretório válido (minúsculas, sem espaços).

@@ -16,7 +16,7 @@ description: "Create a new Node.js/TypeScript backend application with Express f
 Rode na pasta onde o projeto deve ser criado:
 
 ```bash
-bash .opencode/skills/nodejs/backend/scripts/gerar_backend.go minha_api
+bash .opencode/skills/nodejs/backend/scripts/gerar_backend.sh minha_api
 ```
 
 O nome deve ser um diretório válido (minúsculas, sem espaços).
